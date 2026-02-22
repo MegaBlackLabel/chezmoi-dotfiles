@@ -2,3 +2,5 @@
 bun = "latest"
 helix = "latest"
 node = "latest"
+rust = "latest"
+uv = "latest"
