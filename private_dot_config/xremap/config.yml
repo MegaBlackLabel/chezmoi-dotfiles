@@ -1,0 +1,8 @@
+modmap:
+  - name: "Key Swaps"
+    remap:
+      # 1. Capslockを左Ctrlに
+      CapsLock: Ctrl_L
+      # 2. 左Ctrlを全角半角
+      LeftCtrl: GRAVE
+      

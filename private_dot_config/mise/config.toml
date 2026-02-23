@@ -1,6 +1,13 @@
 [tools]
 bun = "latest"
 helix = "latest"
+lazygit = "latest"
 node = "latest"
 rust = "latest"
 uv = "latest"
+yazi = "latest"
+go = "latest"
+opencode = "latest"
+"github:trasta298/keifu" = "latest"
+zig = "latest"
+zls = "latest"
